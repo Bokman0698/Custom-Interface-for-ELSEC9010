@@ -1,0 +1,8 @@
+acceleration=50
+maxSpeed=200
+generalTimeOut=90
+withdrawalTimeOut=180
+homingTimeOut=120
+pingInterval=30
+homeAfterSteps=100000
+withdrawalPosition=(2829, 4800)
